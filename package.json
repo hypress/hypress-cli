@@ -1,0 +1,27 @@
+{
+  "name": "hypress-cli",
+  "version": "0.0.1",
+  "description": "hypress-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cemderin@github.com/hypress/hypress-cli.git"
+  },
+  "keywords": [
+    "hypress",
+    "wordpress",
+    "cli",
+    "command",
+    "line",
+    "interface"
+  ],
+  "author": "Cem Derin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypress/hypress-cli/issues"
+  },
+  "homepage": "https://github.com/hypress/hypress-cli#readme"
+}
